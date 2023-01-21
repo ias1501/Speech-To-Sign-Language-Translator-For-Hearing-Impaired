@@ -18,6 +18,10 @@
 
 **Sign language is a visual language that is used by deaf people as their mother tongue. Unlike acoustically conveyed sound patterns, sign language uses body language and manual communication to fluidly convey the thoughts of a person. Due to considerable time required in learning the Sign Language,  it becomes difficult to communicate with these specially abled people, and thus creates a communication gap.**
 
+
+##ProblemStatement
+Dumb people use hand signs to communicate, hence normal people face problem in recognizing their language by signs made. Hence there is a need of the systems which recognizes the different signs and conveys the information to the normal people.
+
 ## Objective
 **This Audio to Sign Language converter aims at :**
 - Providing information access and services to deaf people in Indian sign language.
@@ -50,6 +54,9 @@ respective GIFs of the Phrase.
 “Could not listen”.
 
 **Due to considerable time required in learning the Sign Language, people find it difficult to communicate with these specially abled people, creating a communication gap. Thus the Audio to Sign Language converter is important and significant because it helps in providing information access and services to deaf people in Indian sign language and develops a scalable project which can be extended to capture whole vocabulary of ISL through manual and non-manual signs. It also can be developed as a desktop or mobile application to enable specially abled people to communicate easily and effectively with others.**
+
+##Result
+The amount of time it took the translator to convert speech to sign language using the command line has been recorded. Depending on the length of the sentence we speak, the speech recognizer takes time. Converting the text into a sentence takes only a short amount of time during the text analysis.It takes 18.80 seconds to convert the speech “Hello,Good Evening” to sign language (from the start of audio recording to translation).
 
 The project before enhancement and modification was cloned from <a href = "https://github.com/ias1501/Speech-To-Sign-Language-Translator-For-Hearing-Impaired">Technoveters</a>
 This project is now modified for better and enhanced speech recognition. Also added the program to work in offline mode.
